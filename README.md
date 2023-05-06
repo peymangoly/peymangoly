@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peymangoly
 - 👀 I’m interested in Linux and systems
-- 🌱 I’m currently learning virtualization
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Linux project
 - 📫 How to reach me? by Email
 
